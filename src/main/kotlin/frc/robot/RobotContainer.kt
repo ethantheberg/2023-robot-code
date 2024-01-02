@@ -153,9 +153,6 @@ class RobotContainer {
             { primaryController.leftY * DrivetrainConstants.drivingSpeedScalar / 2.0 },
             { primaryController.leftX * DrivetrainConstants.drivingSpeedScalar / 2.0},
             { primaryController.rightX * DrivetrainConstants.rotationSpeedScalar / 2.0},
-//            { primaryController.leftY * DrivetrainConstants.drivingSpeedScalar },
-//            { primaryController.leftX * DrivetrainConstants.drivingSpeedScalar},
-//            { primaryController.rightX * DrivetrainConstants.rotationSpeedScalar},
             true,
             true
         )
